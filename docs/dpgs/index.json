@@ -319,7 +319,7 @@
     "id": "h5p",
     "name": "H5P",
     "description": "H5P makes it easy to create, share and reuse HTML5 content and applications. H5P empowers everyone to create rich and interactive web experiences more efficiently - all you need is a web browser and a web site with an H5P plugin.",
-    "website": "https://h5p.org",
+    "website": "https://h5p.org/",
     "license": [
       {
         "spdx": "MIT",
@@ -328,7 +328,7 @@
     ],
     "SDGs": [
       {
-        "SDGNumber": 4
+        "SDGNumber": 6
       }
     ],
     "sectors": [],
